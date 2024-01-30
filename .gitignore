@@ -33,4 +33,3 @@ override.tf.json
 # examples: *tfplan*
 *idea*
 *.log
-*terraform*
