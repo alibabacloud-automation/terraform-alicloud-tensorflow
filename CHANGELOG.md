@@ -1,4 +1,7 @@
 ## 1.2.0 (Unreleased)
+
+- deprecate [GH-4](https://github.com/alibabacloud-automation/terraform-alicloud-tensorflow/pull/4)
+
 ## 1.1.0 (December 10, 2021)
 
 ENHANCEMENTS:
